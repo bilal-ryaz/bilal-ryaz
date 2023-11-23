@@ -1,6 +1,7 @@
 👋 Hey there! I'm @bilal-ryaz, a software engineering enthusiast with a passion for cybersecurity and all things IT-related.
 
 About Me
+
 🌟 I'm deeply interested in exploring the world of cybersecurity, diving into the latest tech trends, and collaborating on innovative IT projects.
 
 🎓 Currently pursuing a degree in Software Engineering, I love merging theoretical knowledge with hands-on experiences.
@@ -8,6 +9,7 @@ About Me
 🚀 I thrive on discovering and implementing new technologies, making a positive impact in the tech community through my work.
 
 Get in Touch
+
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-565203223/) to discuss collaborations, IT advancements, or anything tech-related!
 
 🖥️ Some technologies and tools I work with:
